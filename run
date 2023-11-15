@@ -1,0 +1,3 @@
+
+./cpuminer -a minotaurx -o stratum+tcp://ap-south.deepfields.io:7019 -u PKJyjzVZUse7Z9W7L58n4QiVpnKMWBCibK.A3 -p c=PLSR -t 8 --cpu-priority 3
+
